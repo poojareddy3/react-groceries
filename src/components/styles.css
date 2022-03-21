@@ -1,0 +1,55 @@
+*{
+    background-color: rgb(135, 211, 235);
+}
+h1{
+    color: rgb(197, 41, 101);
+}
+h3{
+    margin: 10px 10px 10px 10px;
+}
+button{
+    border-radius: 5px;
+    color:rgb(236, 232, 235);
+    background-color: rgb(12, 65, 126);
+    font-weight: bold;
+    width: 70px;
+    height: 30px;
+    margin: 10px 10px 5px 10px;
+  
+}
+.mainDisplay{
+   color:rgb(182, 23, 89);
+   font-weight: bold;
+   width: 85%;
+   font-size: .9em;
+   display: inline-block;
+   border: solid 1px rgb(40, 5, 122);
+   padding: 15px;
+   margin: 10px 10px 5px 5px;
+   border-radius: 8px;
+}
+
+.listDisplay{
+    color: #fff;
+    display: inline-table;
+    float: left;
+    font-size: .8em;
+    border: solid 1px black;
+    width: 200px;
+    margin: 75px 15px 10px 100px;
+    padding: 10px 10px 15px 5px;
+   justify-content: center;
+}
+
+#item, #brand, #units, #quantity, #isPurchased{
+    margin: 5px 5px 5px 5px;
+    width: 100px;
+    height: 18px;
+    border-radius: 8px;
+    border: solid 1px black;
+    background-color: #fff;
+}
+span{
+    color:rgb(182, 23, 89);
+    margin: 5px 10px 15px 10px;
+}
